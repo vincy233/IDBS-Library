@@ -7,7 +7,7 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	sqlx "github.com/jmoiron/sqlx"
 )
-
+ 
 const (
 	User     = "root"
 	Password = "123456"
